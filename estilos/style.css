@@ -21,7 +21,7 @@ main {
     position: relative;
 }
 
-#smartphone {
+section#smartphone {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -32,3 +32,14 @@ main {
     background-size: contain;
     border-radius: 50px;
 }
+
+iframe#tela {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);    
+    width: 268px;
+    height: 475px;
+    background-color: #fff;
+}
+
