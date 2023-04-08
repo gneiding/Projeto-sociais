@@ -46,7 +46,7 @@ iframe#tela {
     transform: translate(-50%, -50%);    
     width: 269px;
     height: 477px;
-    background-color: #fff;
+    background-color: #000;
 }
 
 img.icone{
